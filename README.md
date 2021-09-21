@@ -1,5 +1,4 @@
 ### Olá!
-<img align="right" alt="Rafa-yoda" src="https://imagehost7.online-image-editor.com/oie_upload/images/2014335DEEwA/2034327XvWWt1s9.gif">
 
 <h3>Sou iniciante na computação e atualmente estou aprendendo JS, CSS e HTML, aceito dicas dessas linguagens ou programação no geral!😊</h3> <br>
 <h3>Pronomes: He/Him - Ele/Dele😊 </h3>      
