@@ -8,7 +8,7 @@
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=saturnconjunction&layout=compact&langs_count=7&theme=react"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Davi-Py" height="50" width="50" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg">
+  <img align="center" alt="Davi-Py" height="55" width="50" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg">
   </div>
   
   ##
